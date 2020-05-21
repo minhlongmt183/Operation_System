@@ -1,3 +1,7 @@
-# Operation_System
+# Operation_System_Labs
 ---
-## Repository lưu trữ các bài lab của môn hệ điều hành.
+## [Lab2](./Lab2)
+## [Lab3](./Lab3)
+## [Lab4](./Lab4)
+## [Lab5](./Lab5)
+## [Lab6](./Lab6)
